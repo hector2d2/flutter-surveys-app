@@ -5,6 +5,8 @@ In this App you can create surveys
 
 ## Getting Started
 
+the manage state is provider :D
+
 ## Tests
 
 <img src="images/home.png" width = "250" height = "450">
