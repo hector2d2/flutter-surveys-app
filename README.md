@@ -5,7 +5,7 @@ In this App you can create surveys
 
 ## Getting Started
 
-the manage state is provider :D
+the manage state is provider :D 
 
 ## Tests
 
